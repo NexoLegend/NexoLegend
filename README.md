@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @NexoLegend
 - 👀 I’m interested in Programing
 - 🌱 I’m currently learning Java Script
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me NexoLegend#5975
+- 📫 How to reach me nexolegend.net@gmail.com
 
 <!---
 NexoLegend/NexoLegend is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
